@@ -1,3 +1,4 @@
-/* Lista de los desarrolladores:
+/* Lista de los desarrolladores
   Tino
+  daniel carbente
 */
